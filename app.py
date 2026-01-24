@@ -170,10 +170,3 @@ ax.legend()
 ax.grid(True, alpha=0.3)
 
 st.pyplot(fig)
-
-with st.expander("See comparison data"):
-    comparison_data = {
-        "Model": ["Prophet", "Linear", "Polynomial"],
-        "Prediction (inches)": [prophet_pred, lin_target_val, poly_target_val]
-    }
-    st.table(pd.DataFrame(comparison_data))
