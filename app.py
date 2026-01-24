@@ -129,8 +129,8 @@ st.markdown(f"### Predictions for {target_year}")
 
 # Metrics
 col1, col2, col3 = st.columns(3)
-col1.metric("Facebook Prophet", f"{prophet_pred:.2f}\"", f"± {(prophet_upper - prophet_lower)/2:.2f} inches uncertainty", delta_color="blue")
-col2.metric("Linear Regression", f"{lin_target_val:.2f}\"", "Oversimplified", delta_color="red")
+col1.metric("Facebook Prophet", f"{prophet_pred:.2f}\"", f"± {(prophet_upper - prophet_lower)/2:.2f} inches uncertainty", delta_color="blue", delta_arrow="off")
+col2.metric("Linear Regression", f"{lin_target_val:.2f}\"", "Oversimplified", delta_color="red", delta_arrow="down")
 col3.metric("Polynomial (Deg 2)", f"{poly_target_val:.2f}\"", "Approximate", delta_color="green")
 
 st.subheader("Model Comparison Plot")
@@ -179,5 +179,6 @@ st.markdown(
     """, 
     unsafe_allow_html=True
 )
+
 
 
