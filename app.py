@@ -170,3 +170,13 @@ ax.legend()
 ax.grid(True, alpha=0.3)
 
 st.pyplot(fig)
+
+st.divider()
+st.markdown(
+    """
+    <div style='text-align: center; color: grey;'>
+        Created by <b>Your Name</b> | <a href='https://github.com/your-username'>GitHub</a>
+    </div>
+    """, 
+    unsafe_allow_html=True
+)
