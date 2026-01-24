@@ -175,8 +175,9 @@ st.divider()
 st.markdown(
     """
     <div style='text-align: center; color: grey;'>
-        Created by <b>Your Name</b> | <a href='https://github.com/your-username'>GitHub</a>
+        Created by <b>Sajid Ahmed</b> | <a href='https://github.com/sahmed0'>GitHub</a>
     </div>
     """, 
     unsafe_allow_html=True
 )
+
