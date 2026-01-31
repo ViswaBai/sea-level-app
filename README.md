@@ -10,7 +10,7 @@ Unlike simple trend lines, this app allows users to visualise how different math
 
 ## 🚀 Live Demo
 
-**[Click here to launch the App](https://sea-level-app-faqqps9amzyqpcsoxntfb4.streamlit.app/)**
+**[Click here to launch the App](https://sea-level-forecast.streamlit.app/)**
 
 *(Note: The webapp is hosted on a free instance. Please allow 30 seconds for the server to wake up upon first access.)*
 
